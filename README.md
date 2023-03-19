@@ -10,7 +10,7 @@ I developed the code in Visual Studio code. I used Python and incorporated the P
 
 {Make a list of websites that you found helpful in this project}
 
-- [Geeks 4 Geeks](https://www.geeksforgeeks.org/pygame-tutorial/)
+- [Geeks 4 Geeks] (https://www.geeksforgeeks.org/pygame-tutorial/)
 - [Google Docs] (https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
 
 # Future Work
