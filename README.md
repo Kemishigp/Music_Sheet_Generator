@@ -1,6 +1,6 @@
 # Overview
 I wrote a program that takes a video of someone playing piano on Synthesia and generates a music sheet out of it.
-[Software Demo Video](https://youtu.be/8-GuGn3wS2M)
+[Software Demo Video](https://youtu.be/qFJP3hg5z88)
 
 # Development Environment
 
